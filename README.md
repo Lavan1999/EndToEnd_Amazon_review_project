@@ -1,5 +1,7 @@
 # EndToEnd_Amazon_review_project
 
+![Screenshot (401)](https://github.com/user-attachments/assets/7ae94b07-986c-43ee-a128-079a6d62296f)
+
 ## Workflow: Amazon Review Analysis
 - Web Scraping:
 
